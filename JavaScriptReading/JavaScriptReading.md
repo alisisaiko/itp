@@ -1,6 +1,5 @@
-#JavaScript Reading Assignment
-
-#####Alicia Christina Sutedja
+# JavaScript Reading Assignment
+##### Alicia Christina Sutedja
 
 **Chapter One**
 
