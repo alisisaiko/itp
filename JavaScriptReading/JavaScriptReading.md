@@ -1,5 +1,6 @@
-#JavaScript Reading Assignment
-#####Alicia Christina Sutedja
+# JavaScript Reading Assignment
+##### Alicia Christina Sutedja
+
 **Chapter One**
 
 * One thing I knew was that all values play different roles, obviously, haha, but other than that everything I learned was very new.
