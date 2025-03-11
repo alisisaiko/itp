@@ -4,7 +4,7 @@
 
 `My first mistake was in the key pressed. I treated it the same way as the custom sound function. I had made two other functions of the keypressed but it was only the last button that was working. So then I tried if and else, then it worked! I'm pretty sure there is a much easier way to do this compared to making seperate functions for each one, especially the custom sound one, but I'm just happy I didn't use chatgpt for this one lmao haha`
 
-(link to p5) <https://editor.p5js.org/alisisaiko/sketches/n1oMrkPRB>
+<https://editor.p5js.org/alisisaiko/sketches/n1oMrkPRB>
 
 <img src="https://github.com/alisisaiko/itp/blob/main/Midterm_Samples/screenshots/firstlogic.jpg" style="width:300px; height:auto;" />
 
