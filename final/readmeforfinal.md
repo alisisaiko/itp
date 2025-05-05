@@ -7,7 +7,7 @@
 `For the link, the temperature converter was something I worked on really early in the semester, I was just joking around and was trying out different stuff. I basically asked chatgpt to give me a css template that was appealing, and the rest was basically just if else code. Of course I had chatgpt's help because I was doing this for fun and I was just trying to learn the different elements, like parseFloat can combine a string and a number, things like that. This is purely unintentional, I wasn't planning on putting this in my final, this is just additional because I thought it was kind of perfect how the temperature from the API is fahrenheit and I literally had a temperature converter thing too. Overall it was a fun project for me to do haha.`
 
 <a href="https://www.youtube.com/watch?v=Fks_QxwVpW8">YouTube Savior<a/>
-<a href="[alisisaiko.github.io](https://alisisaiko.github.io/)">Final Website</a>
+<a href="https://alisisaiko.github.io">Final Website</a>
 
 <img src="https://github.com/alisisaiko/itp/blob/main/final/apicall.jpg" style="width:300px; height:auto;" />
 <img src="https://github.com/alisisaiko/itp/blob/main/final/apikeys.jpg" style="width:300px; height:auto;" />
